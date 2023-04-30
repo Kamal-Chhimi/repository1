@@ -1,0 +1,237 @@
+.containr{
+    width: 100%;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    background-color: black;
+}
+.menu{
+    height: 15%;
+    width: auto;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+.search::placeholder{
+    color: white;
+}
+.img{
+    width: 30%;
+    height: 170%;
+    float: left;
+    margin: 0;
+    margin-right: 16%;
+    position: relative;
+    left: 2%;
+    margin-left: 0%;
+}
+.svg1{
+    color: black;
+    background-color: gray;
+    padding: 10%;
+    height: 45px;
+    width: 45px;
+    border-radius: 30%;
+    margin-right: 30%;
+}
+.svg2{
+    color: black;
+    background-color: gray;
+    padding: 10%;
+    height: 45px;
+    width: 45px;
+    border-radius: 30%;
+    margin-right: 60%;
+    margin-left: 50%;
+}
+.svg1:hover{
+    background-color: #c08d54;
+    color: white;
+}
+.svg2:hover{
+    background-color: #c08d54;
+    color: white;
+}
+.search{
+    margin-left: 100%;
+    margin-right: 0%;
+    height: 45px;
+    margin-top: 0;
+    text-decoration: none;
+    border-width: 2px;
+    border-style: groove;
+    border-color: white;
+    background-color: transparent;
+    color: white;
+    place-items: WHITE;
+    width: 150%;
+    font-size: 130%;
+    transition: all 0.3s ease;
+    position: relative; /* added position */
+    top: 0%;
+    right: 0%;
+  }
+
+  .svg3 {
+    height: 25px;
+    width: 25px;
+    color: white;
+    position: absolute;
+    top: 100%;
+    right: 0%; /* added right */
+    left: 240%;
+    transform: translateY(-30%);
+    cursor: pointer;
+  }
+  .input-wrapper {
+    position: relative;
+    display: inline-block;
+    height: 13%;
+    width: 17%;
+    top: 0%;
+   margin-bottom: 1.5%;
+  }
+  .list{
+    display: flex;
+    color: white;
+    text-decoration: none;
+    align-items: center;
+    font-size: 170%;
+    list-style: none;
+    height: 7%;
+    background-color: black;
+    margin: 0;
+  }
+  .list>li{
+    margin-right: 1%;
+    margin-left: 0.5%;
+    cursor: pointer;
+    height: auto;
+    width: auto;
+    z-index: 3;
+  }
+  .list>li:hover{
+    color: darkgoldenrod;
+    font-weight: 100%;
+    font-size: 130%;
+  }
+  .list :nth-child(3){
+    margin-right: 0;
+  }
+  /* .dropdown-content{
+    background-color: white;
+    height: 12vw;
+    width: 30vw;
+    position: absolute;
+    top: 21.5%;
+    left:25%;
+    border-radius: 15px;
+    color: black;
+  } */
+  .dropdown-content{
+    background-color  :white;
+    border-radius: 14px;
+    display: flex;
+    justify-content: space-between;
+    z-index: 4;
+    top: 90%;
+    background-color: white;
+    height: auto;
+    width: auto;
+    position: absolute;
+    top: 21.5%;
+    left:20%;
+    border-radius: 15px;
+    color: black;
+}
+.dropdown-content-button{
+    position: relative;
+    height: 100%;
+    width: 100%;
+    font-size: xx-large;
+    border:black;
+    background-color: black;
+    color: white;
+}
+.dropdown-content-button:hover{
+  background-color:#c08d54;
+  color: black;
+}
+.column{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.checkbox{
+    height: 15px;
+    width: 15px;
+    margin: 10px;
+}
+.dropdown-content h2{
+    margin: 20px;
+    margin-bottom: 6px;
+}
+  .slideshow img {
+    display: block;
+    margin: auto;
+    width: 97%;
+    height: 76vh;
+    object-fit: cover;
+    transition: opacity 0.5s ease-in-out;
+    z-index: 3;
+    margin-top: -0.6%;
+    padding-top: 0;
+  }
+  .slideshow img:not(:first-child) {
+    opacity: 0;
+  }
+  .slideshow-text{
+   z-index: 6;
+   position: absolute;
+   color: #c08d54;
+   top: 55%;
+  right: 5%;
+  left: 0;
+  transform: translateY(-50%);
+  text-align: right;
+  font-size: 200%;
+  font-weight: bold;
+  
+}
+.slideshow-text>span{
+    text-decoration:underline;
+    text-decoration-color: white;
+  }
+  
+  @media (max-width: 767px) {
+    .input-wrapper {
+      width: 10%;
+      margin-bottom: 6%;
+    }
+    .slideshow-text{
+        font-size: 140%;
+    }
+    .list{
+      font-size: 100%;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .list li{
+      width: auto;
+      margin:2%;
+      margin-left: 0%;
+      margin-right: 2%;
+    }
+    .svg3{
+      color: transparent;
+    }
+    .search{
+      position: relative;
+    }
+  }
+  
+  
+  

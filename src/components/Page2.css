@@ -1,0 +1,138 @@
+.container{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    background-color: rgba(192,141,84,.2);
+    z-index: 0;
+    background-image: url('../Images/bgaboutus-min.jpg');
+    background-size: 100% 100%;
+    background-position: center center center;
+    background-repeat: no-repeat;
+    object-fit: cover;
+}
+.imgwelcome{
+    height: 40%;
+    width: 34%;
+    z-index: 3;
+    transform: translate(-50%, -50%);
+    position: relative;
+    top: 10%;
+    left: 19%;
+    padding: 0;
+    margin: 0;
+}
+.about{
+    color: white;
+    background-color:black;
+    z-index: 1;
+    height: auto;
+    width: 38%;
+    margin-left: 1%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-height: 50vh;
+    position: relative;
+    margin-bottom: 4%;
+    border-radius: 10px;
+}
+.about h1::before,
+.about h1::after {
+    content: "";
+    position: absolute;
+    top: 25%;
+    height: 1px;
+    width: 250%;
+    background-color: transparent;
+    border-top: 3px solid white;
+}
+
+.about h1::before {
+    left: 0;
+    
+}
+
+.about h1::after {
+    right: 0;
+    
+}
+.about span {
+        position: relative;
+        top: -8px; /* adjust this value to move the text up or down */
+        left: 0%;
+        transform: translateX(-50%);
+        padding: 0 4px;
+        z-index: 2;
+        background-color :black;
+        float: left;
+        margin-left: 0;
+      }
+
+.info{
+z-index: 7;
+Font-family: Inter;
+Font-style: Italic;
+}
+.about h1{
+font-size: 200%;
+  margin-bottom: 2%;
+  height: 9%;
+  color: #c08d54;
+  margin-top: 2%;
+  margin-bottom: 0;
+  position: relative;
+  top: 0%;
+  width: 25%;
+}
+.about p{
+    font-size: 130%;
+    height: 80%;
+    padding-bottom: 2px;
+    margin-top: 6%;
+}
+
+@media (max-width: 768px) {
+    .imgwelcome{
+        width: 300px;
+        height: 200px;
+        transform: translate(-50%, -50%);
+        position: relative;
+        top: 15%;
+        left: 39%;
+        padding: 0;
+        margin: 0;
+    }
+    .about{
+        height: 100%;
+        width: 58%;
+        /* margin-left: 10%;
+        margin-top: 0%;
+        margin-bottom: 20%; */
+        position: relative;
+        bottom: 20%;
+        left: 10%;
+    }
+    .about h1{
+        font-size: 18px;
+        width: 150%;
+        height: auto;
+    
+    }
+    .about p{
+        font-size: 16px;
+        position: relative;
+    }
+    .about h1 {
+        width: 45%; /* modified width */
+      }
+      .about h1::before,
+      .about h1::after {
+        width: 30vw; /* modified width */
+      }
+  }

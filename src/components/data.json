@@ -1,0 +1,1724 @@
+[
+  {
+    "id": 1,
+    "item": {
+      "productName": "Vermentino Toscana",
+      "productDescription": "Chianti Villa Montgeinri",
+      "productPrice": "$7",
+      "productImage": "img1.png",
+      "productDetails": "2-italy-min.jpg",
+      "productDetailsMobile": "2-Vermentino Toscana-min.jpg",
+      "productCountry": "Italy",
+      "productRegion": "Tuscany",
+      "productType": "White",
+      "productBrand": "Pian del Poggio",
+      "grapeVariety": "Vermentino",
+      "abv": "12.0%",
+      "acidity": "5.2g/l",
+      "sugar": "3.2g/l",
+      "servingTemp": "8-10°C",
+      "vintage": "2021",
+      "senses": {
+        "eye": "Brilliant tending to a straw yellow",
+        "nose": "Ample range of intense & fragrant citrusy aromas",
+        "mouth": "SDry yet well supported by the freshness of crushed rocky minerality & salt. Lengthy persistence on the palate"
+      },
+      "vinification": "As soon as the grapes arrive to the cellars they're delicately destemmed and given a sift pressing. Then placed in temperature - controlled stainless steel fermentation tanks",
+      "aging": "Refined 4 months in stainless steel tanks",
+      "pairing": "Its growning area, often close to the coast, makes Vermentino a natural choice to pair with seafood starters as well as first courses, shellfish, crustaceans & fish-based main courses (baked or boiled). We suggest to try it with fresh cheeses & white meats"
+    }
+  },
+
+  {
+    "id": 2,
+    "item": {
+      "productName": "Mine Toscana",
+      "productDescription": "Chianti Villa Montgeinri",
+      "productPrice": "$8",
+      "productImage": "img2.png",
+      "productDetails": "1-italy-min.jpg",
+      "productDetailsMobile": "1-MineToscana-min.jpg",
+      "productCountry": "Italy",
+      "productRegion": "Tuscany",
+      "productType": "Rose",
+      "productBrand": "Pian del Poggio",
+      "grapeVariety": "Syrah, Vermentino",
+      "abv": "12.0%",
+      "acidity": "5g/l",
+      "sugar": "4g/l",
+      "servingTemp": "8-10°C",
+      "vintage": "2021",
+      "senses": {
+        "eye": "Light pink, Intriguing",
+        "nose": "Floral/Fruity notes of grapefruit, wild strawberries, ripe apples & rosé",
+        "mouth": "Soft and balanced with crisp freshness & a savory finish"
+      },
+      "vinification": "Grapes are destemmed, crushed & soft pressed to obtain a lightly colored must, left to macerate for several hours in stainless steel tanks. Alcoholic fermentation takes place in stainless steel vats at a controlled temperature not exceeding 15°C",
+      "aging": "Refined 4 months in stainless steel tanks",
+      "pairing": "Rosato wines such as this one pair perfectly with delicate flavors to match it's floral/fruity palate. Pair this with finger foods made with mild meats or delicate grilled fish such as shrimp or scallops. This complex fruity wine is also a perfect pairing with cheese & peppered dishes."
+    }
+  },
+
+  {
+    "id": 3,
+    "item": {
+      "productName": "Beneficio",
+      "productDescription": "Chianti Villa Montgeinri",
+      "productPrice": "$14",
+      "productImage": "img3.png",
+      "productDetails": "20-italy-min.jpg",
+      "productDetailsMobile": "20-Beneficio-min.jpg",
+      "productCountry": "Italy",
+      "productRegion": "Piedmont",
+      "productType": "White",
+      "productBrand": "La Bollina",
+      "grapeVariety": "Cortese, Chardonnay, Sauvignon",
+      "abv": "13.0%",
+      "acidity": "6g/l",
+      "sugar": "6.8g/l",
+      "servingTemp": "8-10°C",
+      "vintage": "2021",
+      "senses": {
+        "eye": "Straw yellow with greenish reflection",
+        "nose": "Intense & persistent bouquet with floral notes of acacia & broom. Fruity notes of peach, pear, citrus lime & orange",
+        "mouth": "Balanced & fruity. Expresses considerable minerality. Very long lasting aroma, with hints of chestnut honey, orange & peach"
+      },
+      "vinification": "After a short, soft and progressive maceration of grapes, follow the decantation and alcoholic fermentation in steel with temperature controlled",
+      "aging": "Aging in steel, on the yeast with battonage at low temperature, to maintain freshness and give structure & balance",
+      "pairing": "Suitable for appetizers, pasta or rice with delicate sauces, seafood & vegetables"
+    }
+  },
+
+  {
+    "id": 4,
+    "item": {
+      "productName": "Cuvee Prestige Extra Dry",
+      "productDescription": "Chianti Villa Montgeinri",
+      "productPrice": "$9",
+      "productImage": "img4.png",
+      "productDetails": "6-italy-min.jpg",
+      "productDetailsMobile": "7-CuveePrestigeExtraDry-min.jpg",
+      "productCountry": "Italy",
+      "productRegion": "Veneto",
+      "productType": "Sparkling",
+      "productBrand": "Abbazia",
+      "grapeVariety": "Glera, Chardonnay",
+      "abv": "11.0%",
+      "acidity": "6g/l",
+      "sugar": "12g/l",
+      "servingTemp": "6-8°C",
+      "vintage": "N/A",
+      "senses": {
+        "eye": "Light straw yellow in colour with greenish highlights. Persistent & fine perlage",
+        "nose": "Fruity & aromatic. Notes of apple & acacia flowers",
+        "mouth": "Fresh, zesty. On the palate it is fine & elegant"
+      },
+      "vinification": "White charmat method",
+      "aging": "Refined in stainless steel tanks for at least 30 days on fine lees “sur lie”",
+      "pairing": "Ideal for all daily meals and for cocktails making. The fruity notes and its foam make unique and unforgettable your toasts"
+    }
+  },
+
+  {
+    "id": 5,
+    "item": {
+      "productName": "Prosecco",
+      "productDescription": "Chianti Villa Montgeinri",
+      "productPrice": "$11",
+      "productImage": "img5.png",
+      "productDetails": "8-italy-min.jpg",
+      "productDetailsMobile": "8-Prosecco.jpg",
+      "productCountry": "Italy",
+      "productRegion": "Veneto",
+      "productType": "Sparkling",
+      "productBrand": "Abbazia",
+      "grapeVariety": "Glera",
+      "abv": "11.0%",
+      "acidity": "6g/l",
+      "sugar": "14g/l",
+      "servingTemp": "6-8°C",
+      "vintage": "N/A",
+      "senses": {
+        "eye": "Light straw yellow in colour with greenish highlights. Persistent & fine perlage",
+        "nose": "Fruity & aromatic. Notes of apple & acacia flowers",
+        "mouth": "Fresh, zesty. On the palate it is fine & elegant"
+      },
+      "vinification": "White charmat method",
+      "aging": "Refined in stainless steel tanks for at least 30 days on fine lees “sur lie”",
+      "pairing": "It's appreciated and well-know all around the word. Ideal for all daily meals and for fish disches, white meat and crustaceans. The fruity notes and its foam make unique and unforgettable your toasts"
+    }
+  },
+
+  {
+    "id": 6,
+    "item": {
+      "productName": "Barolo",
+      "productDescription": "Chianti Villa Montgeinri",
+      "productPrice": "$36",
+      "productImage": "img6.png",
+      "productDetails": "13-italy-min.jpg",
+      "productDetailsMobile": "13-Barolo-min.jpg",
+      "productCountry": "Italy",
+      "productRegion": "Piedmont",
+      "productType": "Red",
+      "productBrand": "Abbazia",
+      "grapeVariety": "Nebbiolo",
+      "abv": "14.0%",
+      "acidity": "6g/l",
+      "sugar": "2g/l",
+      "servingTemp": "16-18°C",
+      "vintage": "2017",
+      "senses": {
+        "eye": "Intense garnet ruby red with orange reflections, tending to violet & brick over time",
+        "nose": "Elegant with notes of violet, small red fruits & leather",
+        "mouth": "Structured & harmonious, with persistent yet soft tannins"
+      },
+      "vinification": "Standard red wine method",
+      "aging": "Destemming-crushing in a controlled atmosphere, alcoholic fermentation at a temperature of 28-30°C with maceration for a total of about 16/20 days. After malolactic fermentation, it goes into French oak barrels for refinement of 38 months",
+      "pairing": "Perfect with pasta dishes with mushroom or cheese sauces, red meat & game stews and pot roasts, mature cheeses"
+    }
+  },
+
+  {
+    "id": 7,
+    "item": {
+      "productName": "Barbera d'Asti Superiore",
+      "productDescription": "Chianti Villa Montgeinri",
+      "productPrice": "$14",
+      "productImage": "img7.png",
+      "productDetails": "12-italy-min.jpg",
+      "productDetailsMobile": "12-Barbera d'Asti  Superiore-min.jpg",
+      "productCountry": "Italy",
+      "productRegion": "Piedmont",
+      "productType": "Red",
+      "productBrand": "Abbazia",
+      "grapeVariety": "Barbera",
+      "abv": "14.0%",
+      "acidity": "6g/l",
+      "sugar": "2g/l",
+      "servingTemp": "16-18°C",
+      "vintage": "2018",
+      "senses": {
+        "eye": "Deep ruby red",
+        "nose": "Notes of little red berries, plum, spices & light vanilla towards the end",
+        "mouth": "Well bodied, velvet, with light hints of vanilla"
+      },
+      "vinification": "After the hand picking of the grapes they are pressed as the long maceration gives an intense & deep color",
+      "aging": "Aged 6 months in stainless steel tanks & 6 months in oak barrels, giving this wine it's velvet characteristic",
+      "pairing": "Best with red meat, aged cheeses, & soup"
+    }
+  },
+
+  {
+    "id": 8,
+    "item": {
+      "productName": "Langhe Arneis",
+      "productDescription": "Chianti Villa Montgeinri",
+      "productPrice": "$14",
+      "productImage": "img8.png",
+      "productDetails": "11-italy-min.jpg",
+      "productDetailsMobile": "11-Langhe Arneis-min.jpg",
+      "productCountry": "Italy",
+      "productRegion": "Piedmont",
+      "productType": "White",
+      "productBrand": "Abbazia",
+      "grapeVariety": "Arneis",
+      "abv": "13.5%",
+      "acidity": "5g/l",
+      "sugar": "5g/l",
+      "servingTemp": "8-10°C",
+      "vintage": "2020",
+      "senses": {
+        "eye": "Straw pale yellow with golden & greenish highlights",
+        "nose": "Fruity with notes of pear, yellow peach, apricot, almond & acacia flowers",
+        "mouth": "Fresh, dry, well-balanced & fruity. Sapid wine with mineral nuances"
+      },
+      "vinification": "White vinification preceded by a minimum of 8 hours of cryomaceration of the grapes. Followed by batonnage for 15-20 days",
+      "aging": "In stainless steel tanks for 3 months",
+      "pairing": "Excellent as aperitif, it goes very well with chicken based dishes, fish, crustaceans, soup and green salads. Perfect also with aged cheeses"
+    }
+  },
+
+  {
+    "id": 9,
+    "item": {
+      "productName": "Montepulciano d'Abruzzo ",
+      "productDescription": "Chianti Villa Montgeinri",
+      "productPrice": "$8",
+      "productImage": "img9.png",
+      "productDetails": "3-italy-min.jpg",
+      "productDetailsMobile": "3-Montepulciano d'Abruzzo-min.jpg",
+      "productCountry": "Italy",
+      "productRegion": "Tuscany",
+      "productType": "Red",
+      "productBrand": "Opera Maestra",
+      "grapeVariety": "Montepulciano Nero",
+      "abv": "13.0%",
+      "acidity": "9g/l",
+      "sugar": "6g/l",
+      "servingTemp": "16-18°C",
+      "vintage": "2021",
+      "senses": {
+        "eye": "Intense ruby red with reflections of violet",
+        "nose": "Intense & complex bouquet with shades that cross an aromatic spectrum of berries with variations of cinnamon & black pepper with strong notes of liquorice",
+        "mouth": "Warm alcoholic note accompanied by soft & evolved tannins of good and persistent structure"
+      },
+      "vinification": "Fermentation using selected yeasts at a controlled temperature for 10 days with maceration on the skins and manual pumping over",
+      "aging": "In stainless steel tanks for 6 months before further refining in the bottle for about 2 months",
+      "pairing": "Montepulciano is best enjoyed with hearty, savory dishes such as beef brisket, hamburgers, beef bolognese, tagliatelle, ragu & high-protein pizzas. It's also a great option for grill enthusiasts pairing well with smoked or barbecued meats"
+    }
+  },
+
+  {
+    "id": 10,
+    "item": {
+      "productName": "Nero d'Avola Sicilia",
+      "productDescription": "Chianti Villa Montgeinri",
+      "productPrice": "$8",
+      "productImage": "img10.png",
+      "productDetails": "4-italy-min.jpg",
+      "productDetailsMobile": "4-Nero d'Avola Sicilia-min.jpg",
+      "productCountry": "Italy",
+      "productRegion": "Sicily",
+      "productType": "Red",
+      "productBrand": "Opera Maestra",
+      "grapeVariety": "Nero d'Avola",
+      "abv": "13.5%",
+      "acidity": "6g/l",
+      "sugar": "9g/l",
+      "servingTemp": "16-18°C",
+      "vintage": "2021",
+      "senses": {
+        "eye": "Intense ruby red color with purple nuances",
+        "nose": "Warm fragrances of wild berries such as blackberry, cherry & blueberries to finish with spice notes, licorice & chocolate",
+        "mouth": "Great balance of power & softness. Silky texture of tannins recalling full olfactory scents"
+      },
+      "vinification": "Fermentation using selected yeasts at a controlled temperature for 10 days with maceration on the skins and manual pumping over",
+      "aging": "In stainless steel tanks for 6 months before further refining in the bottle for about 2 months",
+      "pairing": "Goes particularly well with rich meats  including steaks, burgers, pork chops, veal, meatloaf, & even barbecue! The bold, acidic flavor of the wine allows it to cut through the fats, oils & richness typical of these foods"
+    }
+  },
+
+  {
+    "id": 11,
+    "item": {
+      "productName": "Chianti",
+      "productDescription": "Chianti Villa Montgeinri",
+      "productPrice": "$9",
+      "productImage": "img11.png",
+      "productDetails": "5-italy-min.jpg",
+      "productDetailsMobile": "5-Chianti-min.jpg",
+      "productCountry": "Italy",
+      "productRegion": "Tuscany",
+      "productType": "Red",
+      "productBrand": "Opera Maestra",
+      "grapeVariety": "Sangiovese",
+      "abv": "13.0%",
+      "acidity": "4g/l",
+      "sugar": "8g/l",
+      "servingTemp": "16-18°C",
+      "vintage": "2021",
+      "senses": {
+        "eye": "Bright and intense ruby red",
+        "nose": "Intense & persistent with aromas of ripe red fruit, strong cherry, accompanied by chocolate notes",
+        "mouth": "Concentrated taste with refined tannic texture, slightly fresh & harmonious, mineral finish"
+      },
+      "vinification": "Separately harvested varieties are vinified in the traditional way using selected yeasts at a controlled temperature of 23°C in stainless steel tanks, in contact with the skins for 14 days at manual pumping over",
+      "aging": "Aging in cement tanks until the wine is fully ripe before further refining in the bottle for about 2 months",
+      "pairing": "Goes brilliantly well with tomato sauces, pizza & pasta bakes such as lasagne but it’s also a great wine with a simple grill/roast or even a burger"
+    }
+  },
+  {
+    "id": 12,
+    "item": {
+      "productName": "Pinot Grigio Della Venezie",
+      "productDescription": "Chianti Villa Montgeinri",
+      "productPrice": "$9",
+      "productImage": "img12.png",
+      "productDetails": "7-italy-min.jpg",
+      "productDetailsMobile": "6-Pinot Grigio Della Venezie-min.jpg",
+      "productCountry": "Italy",
+      "productRegion": "Veneto",
+      "productType": "White",
+      "productBrand": "Opera Maestra",
+      "grapeVariety": "Pinot Grigio",
+      "abv": "12.5%",
+      "acidity": "7g/l",
+      "sugar": "7g/l",
+      "servingTemp": "8-10°C",
+      "vintage": "2021",
+      "senses": {
+        "eye": "Straw yellow with golden hues",
+        "nose": "Dry, velvety, tasty & fruity with a slight after-taste of bitter almonds, some honeysuckle & a distinct minerality",
+        "mouth": "Refreshingly dry with brilliant acidity & a bitter almond note on the finish. Very well-balanced & harmonious"
+      },
+      "vinification": "Soft pressing the grapes ferment in stainless steel tanks thanks to selected yeasts for about 8 days in contact with their skins kept in suspension because of daily pumping over.At a controlled temperature of 18°C",
+      "aging": "Refined in stainless steel tanks for 4 months on fine lees “sur lie”",
+      "pairing": "As a delicate, neutral wine, pinot grigio pairs best with light, fresh flavours. Think summery dishes like salads, chicken, seafood, as well as light pasta dishes & risottos. Avoid heavy sauces in favour of creams/vinaigrettes"
+    }
+  },
+  {
+    "id": 13,
+    "item": {
+      "productName": "Valdobbiadene Prosecco Superiore",
+      "productDescription": "Chianti Villa Montgeinri",
+      "productPrice": "$18",
+      "productImage": "img13.png",
+      "productDetails": "9-italy-min.jpg",
+      "productDetailsMobile": "9-Valdobbiadene Prosecco Superiore-min.jpg",
+      "productCountry": "Italy",
+      "productRegion": "Veneto",
+      "productType": "Sparkling",
+      "productBrand": "Abbazia",
+      "grapeVariety": "Glera",
+      "abv": "11.0%",
+      "acidity": "6g/l",
+      "sugar": "14g/l",
+      "servingTemp": "6-8°C",
+      "vintage": "N/A",
+      "senses": {
+        "eye": "Light straw yellow in colour with greenish highlights. Persistent & fine perlage",
+        "nose": "Fruity & aromatic. Notes of apple & acacia flowers",
+        "mouth": "Fresh, zesty. On the palate it is fine & elegant"
+      },
+      "vinification": "White charmat method, harvested from a more restricted area of Valdobbiadene",
+      "aging": "Refined in stainless steel tanks for at least 90 days on fine lees “sur lie”",
+      "pairing": "Italian classic sparkling-wine, appreciated and well-know all around the word. Ideal for all daily meals and for fish disches, white meat and crustaceans. The fruity notes and its foam make unique and unforgettable your toasts"
+    }
+  },
+  {
+    "id": 14,
+    "item": {
+      "productName": "Moscato Rose Dolce Spumante",
+      "productDescription": "Chianti Villa Montgeinri",
+      "productPrice": "$11",
+      "productImage": "img14.png",
+      "productDetails": "10-italy-min.jpg",
+      "productDetailsMobile": "10-Moscato Rosé  Dolce Spumante-min.jpg",
+      "productCountry": "Italy",
+      "productRegion": "Piedmont",
+      "productType": "Sparkling",
+      "productBrand": "Abbazia",
+      "grapeVariety": "Moscato",
+      "abv": "7.0%",
+      "acidity": "6g/l",
+      "sugar": "90g/l",
+      "servingTemp": "6-8°C",
+      "vintage": "N/A",
+      "senses": {
+        "eye": "Delicately rosé with good quantity of persistent bubbles & foam",
+        "nose": "Intense & fruity with rosé, red berries & berry notes",
+        "mouth": "Fresh & fragrant. The alcohol content, the sweetness & the sharpness are perfectly balanced"
+      },
+      "vinification": "Rosé charmat method",
+      "aging": "Refined in stainless steel tanks for at least 30 days on fine lees “sur lie”",
+      "pairing": "Thanks to the low alcohol level it is suitable for a refreshing break, for your aperitif and for modern cocktails. Best with ice-cream, pastries and cakes"
+    }
+  },
+  {
+    "id": 15,
+    "item": {
+      "productName": "Isola Dei Nuraghi",
+      "productDescription": "Chianti Villa Montgeinri",
+      "productPrice": "$12",
+      "productImage": "img15.png",
+      "productDetails": "14-italy-min.jpg",
+      "productDetailsMobile": "14-Isola Dei Nuraghi-min.jpg",
+      "productCountry": "Italy",
+      "productRegion": "Sardinia",
+      "productType": "Red",
+      "productBrand": "Tostorreddu",
+      "grapeVariety": "Carignano del Sulcis, Cannonau, Bovale",
+      "abv": "14.0%",
+      "acidity": "5.4g/l",
+      "sugar": "2g/l",
+      "servingTemp": "16-18°C",
+      "vintage": "2020",
+      "senses": {
+        "eye": "Ruby color with garnet reflections",
+        "nose": "Scent of the woods where blackberry stands out. Wise use of wood that gives sophisticated balsamic notes mixed with nuances of tobacco & rare and precious spice",
+        "mouth": "Warm & sapid with an important tannic structure supported by harmonic balance"
+      },
+      "vinification": "Destemming & subsequent pressing only at the perfect phenolic ripeness of the grapes. Fermentation with maceration at a controlled temperature of 25°C for 15 days, with pumping of over 15 minutes every 6 hours",
+      "aging": "Approximately 20 months in barrels of 2nd and 3rd passage, in order not to yield too much tannin & wooden nuances. Completes its refining in the bottle",
+      "pairing": "Enjoy it with roasts dishes, mature cheeses & game dishes"
+    }
+  },
+  {
+    "id": 16,
+    "item": {
+      "productName": "Bricchetta",
+      "productDescription": "Chianti Villa Montgeinri",
+      "productPrice": "$25",
+      "productImage": "img16.png",
+      "productDetails": "25-italy-min.jpg",
+      "productDetailsMobile": "25-Bricchetta-min.jpg",
+      "productCountry": "Italy",
+      "productRegion": "Piedmont",
+      "productType": "Red",
+      "productBrand": "La Bollina",
+      "grapeVariety": "Barbera",
+      "abv": "14.0%",
+      "acidity": "7.3g/l",
+      "sugar": "8.5g/l",
+      "servingTemp": "16-18°C",
+      "vintage": "2019",
+      "senses": {
+        "eye": "Bone color with violet hues, deep & intense",
+        "nose": "Blackberry, plum & hints of fresh fruit backdrop to the touches of vanilla, spice, licorice & mocha that paint a picture of great elegance & power",
+        "mouth": "Persistent & complex, supported by the characteristic acidity of the grape, which gives this wine length & freshness despite aging"
+      },
+      "vinification": "Cold pre-fermentation maceration for 4 days between 0 and 4 ° C and followed by fermentation at a controlled temperature for about 10 days.",
+      "aging": "Malolactic fermentation in stainless steel with subsequent aging of 14 months in French oak barrels",
+      "pairing": "Particularly suited to red meats, roasts & mature cheeses"
+    }
+  },
+  {
+    "id": 17,
+    "item": {
+      "productName": "Toscana Rosso",
+      "productDescription": "Chianti Villa Montgeinri",
+      "productPrice": "$13",
+      "productImage": "img17.png",
+      "productDetails": "15-italy-min.jpg",
+      "productDetailsMobile": "15-Toscana Rosso-min.jpg",
+      "productCountry": "Italy",
+      "productRegion": "Tuscany",
+      "productType": "Red",
+      "productBrand": "Poggio Manfredi",
+      "grapeVariety": "Sangiovese, Merlot",
+      "abv": "13.5%",
+      "acidity": "5.5g/l",
+      "sugar": "2g/l",
+      "servingTemp": "16-18°C",
+      "vintage": "2019",
+      "senses": {
+        "eye": "Intense purplish red with light garnet hues",
+        "nose": "Complex & harmonious spicy bouquet. The vanilla & jam nuances are the precursors of a wider range of fragrances",
+        "mouth": "It is voluminous with balsamic notes due to the wise use of wood, powerful but well dosed it closes with a persistent & sweet note"
+      },
+      "vinification": "The best grapes are selected in the vineyard and vinified in stainless steel tanks for 18-20 days",
+      "aging": "It completes the malolactic fermentation in wood where it rests for 20 months. Afterwards, the aging process is completed with 4 months of bottle refining",
+      "pairing": "Elaborate meat preparations, game, grilled meats, mature cheeses & all great dishes of creative Tuscan cuisine. It is excellent with leg of lamb"
+    }
+  },
+  {
+    "id": 18,
+    "item": {
+      "productName": "Chianti Classico Riserva ",
+      "productDescription": "Chianti Villa Montgeinri",
+      "productPrice": "$18",
+      "productImage": "img18.png",
+      "productDetails": "16-italy-min.jpg",
+      "productDetailsMobile": "16-Chianti  Classico Riserva-min.jpg",
+      "productCountry": "Italy",
+      "productRegion": "Tuscany",
+      "productType": "Red",
+      "productBrand": "Cantine Guidi",
+      "grapeVariety": "Sangiovese, Merlot, Colorino",
+      "abv": "13.5%",
+      "acidity": "5.3g/l",
+      "sugar": "2g/l",
+      "servingTemp": "14-16°C",
+      "vintage": "2019",
+      "senses": {
+        "eye": "Dark ruby red",
+        "nose": "Intense, complex aroma with notes of ripe fruit & elegant floral scents",
+        "mouth": "Full-bodied, soft, fruity flavor yet very savory & harmonious"
+      },
+      "vinification": "Traditional red wine vinification method under 28 degrees",
+      "aging": "24 months in second passage barrels, 6 months further in the bottle",
+      "pairing": "Balanced with acidity & tannin, Chianti loves both meat and tomato sauce. Pairs best with meaty dishes featuring tomato sauce, such as spaghetti & meatballs, lasagna, chicken parmesan, baked ziti,  pizza & bruschetta"
+    }
+  },
+  {
+    "id": 19,
+    "item": {
+      "productName": "Brunello di Montalcino",
+      "productDescription": "Chianti Villa Montgeinri",
+      "productPrice": "$48",
+      "productImage": "img19.png",
+      "productDetails": "17-italy-min.jpg",
+      "productDetailsMobile": "17-Brunello  di Montalcino-min.jpg",
+      "productCountry": "Italy",
+      "productRegion": "Tuscany",
+      "productType": "Red",
+      "productBrand": "Poggio Tondo",
+      "grapeVariety": "Sangiovese",
+      "abv": "13.5%",
+      "acidity": "5.6g/l",
+      "sugar": "2g/l",
+      "servingTemp": "16-18°C",
+      "vintage": "2017",
+      "senses": {
+        "eye": "Intense ruby red tending to garnet with aging",
+        "nose": "Characteristic, intense with notes of wild berries & berries",
+        "mouth": "Full, harmonious with a long persistence"
+      },
+      "vinification": "The grapes are de-stemmed and softly pressed and maceration takes place in stainless steel for 20 days with pumping over & punching down. During this phase it completes the alcoholic fermentation at a controlled temperature of 30 ° C",
+      "aging": "After completing the malolactic fermentation, the wine is placed in Slavonian oak barrels for 24-30 months, then rests 6 months in stainless steel and at least 12 months in the bottle before being put on the market 5 years after the harvest",
+      "pairing": "Red meats & game, aged cheeses & elaborate dishes"
+    }
+  },
+  {
+    "id": 20,
+    "item": {
+      "productName": "Amarone della Valpolicella",
+      "productDescription": "Chianti Villa Montgeinri",
+      "productPrice": "$38",
+      "productImage": "img20.png",
+      "productDetails": "18-italy-min.jpg",
+      "productDetailsMobile": "18-Amarone  della Valpolicella-min.jpg",
+      "productCountry": "Italy",
+      "productRegion": "Veneto",
+      "productType": "Red",
+      "productBrand": "Antica Vinaia",
+      "grapeVariety": "Corvina, Corvinone, Rondinella",
+      "abv": "15.0%",
+      "acidity": "5.4g/l",
+      "sugar": "8g/l",
+      "servingTemp": "16-18°C",
+      "vintage": "2017",
+      "senses": {
+        "eye": "Rich in colour, firmly structured but with fresh notes. This wine has personality & is also able to convey elegance and depth",
+        "nose": "Broad with berries, dried flowers, licorice & a spicy finale that blends well with the complexity of the wine",
+        "mouth": "Rich & deep, elegant yet potent at the same tim.  Still young but already very balanced"
+      },
+      "vinification": "Natural drying for 3-4 months with a sharp drop in weight of around 30% followed by soft crushing of destemmed grapes. Fermented at a controlled temperature for about 30 days",
+      "aging": "24 months in large Slavonian oak barrels",
+      "pairing": "Rich steaks & mature, intense, aged cheeses"
+    }
+  },
+  {
+    "id": 21,
+    "item": {
+      "productName": "Minetta",
+      "productDescription": "Chianti Villa Montgeinri",
+      "productPrice": "$14",
+      "productImage": "img21.png",
+      "productDetails": "19-italy-min.jpg",
+      "productDetailsMobile": "19-Minetta-min.jpg",
+      "productCountry": "Italy",
+      "productRegion": "Piedmont",
+      "productType": "Red",
+      "productBrand": "La Bollina",
+      "grapeVariety": "Barbera",
+      "abv": "13.5%",
+      "acidity": "7g/l",
+      "sugar": "6.2g/l",
+      "servingTemp": "16-18°C",
+      "vintage": "2020",
+      "senses": {
+        "eye": "Dark red with violet reflections",
+        "nose": "Fruity, spicy with hints of blackberry, licorice & hints of black pepper",
+        "mouth": "The taste is full, dry, pleansant & generous"
+      },
+      "vinification": "Pre-fermentation maceration cold and subsequent fermentation at low temperatures in stainless steel tanks at controlled temperature and oxygenation",
+      "aging": "Refined 3 months in steel",
+      "pairing": "Perfect with pasta dishes, raw meats , roasts & mature cheeses"
+    }
+  },
+  {
+    "id": 22,
+    "item": {
+      "productName": "Tinetta",
+      "productDescription": "Chianti Villa Montgeinri",
+      "productPrice": "$14",
+      "productImage": "img22.png",
+      "productDetails": "21-italy-min.jpg",
+      "productDetailsMobile": "21-Tinetta-min.jpg",
+      "productCountry": "Italy",
+      "productRegion": "Piedmont",
+      "productType": "Rose",
+      "productBrand": "La Bollina",
+      "grapeVariety": "Nebbiolo",
+      "abv": "13.0%",
+      "acidity": "6.5g/l",
+      "sugar": "7.9g/l",
+      "servingTemp": "8-10°C",
+      "vintage": "2021",
+      "senses": {
+        "eye": "Bright salmon colour",
+        "nose": "Intense & persistent bouquet with floral notes. Fruity notes of cherry & strawberry",
+        "mouth": "Balanced, ground & fresh with sensation of sweet fruits "
+      },
+      "vinification": "The grapes are softly pressed as a white and fermented to a temperature of 10/12°C for about 14 days",
+      "aging": "Aging in steel, on the yeast with battonage at low temperature, to maintain freshness and give structure & balance",
+      "pairing": "Suitable for appetizers, starters & fish dishes"
+    }
+  },
+  {
+    "id": 23,
+    "item": {
+      "productName": "Gavi",
+      "productDescription": "Chianti Villa Montgeinri",
+      "productPrice": "$16",
+      "productImage": "img23.png",
+      "productDetails": "22-italy-min.jpg",
+      "productDetailsMobile": "22-Gavi-min.jpg",
+      "productCountry": "Italy",
+      "productRegion": "Piedmont",
+      "productType": "White",
+      "productBrand": "La Bollina",
+      "grapeVariety": "Cortese",
+      "abv": "13.0%",
+      "acidity": "6.1g/l",
+      "sugar": "5g/l",
+      "servingTemp": "10-12°C",
+      "vintage": "2021",
+      "senses": {
+        "eye": "Straw yellow with greenish reflection",
+        "nose": "Delicate fragrance of fresh fruits & spring flowers",
+        "mouth": "Dry, pleasantly cool, with soft flavor, moderately intense & persistent"
+      },
+      "vinification": "After a short, soft and progressive maceration of grapes, follow the decantation and alcoholic fermentation in steel",
+      "aging": "In steel, on the yeast with battonage at low temperature, to maintain freshness and give structure & balance. The bottling occurs from time to time, in small quantities",
+      "pairing": "Particularly suitable for fish dishes & appetizers"
+    }
+  },
+  {
+    "id": 24,
+    "item": {
+      "productName": "Gavi Ventola",
+      "productDescription": "Chianti Villa Montgeinri",
+      "productPrice": "$22",
+      "productImage": "img24.png",
+      "productDetails": "23-italy-min.jpg",
+      "productDetailsMobile": "23-Gavi Ventola-min.jpg",
+      "productCountry": "Italy",
+      "productRegion": "Piedmont",
+      "productType": "White",
+      "productBrand": "La Bollina",
+      "grapeVariety": "Cortese",
+      "abv": "13.5%",
+      "acidity": "6g/l",
+      "sugar": "6g/l",
+      "servingTemp": "10-12°C",
+      "vintage": "2020",
+      "senses": {
+        "eye": "Straw yellow with golden hues",
+        "nose": "Jasmine flowers & almond, accompanied by a slight hint of pear, peach & vanilla",
+        "mouth": "Good acidity that gives freshness, minerality & persistence opposing yet balancing the softness of natural light ripening grapes"
+      },
+      "vinification": "Static racking of the must for 24 hours and subsequent fermentation in stainless steel at a controlled temperature for 2/3 of his life , completing the same in french oak barrels",
+      "aging": "Aging for 3 months 60% in steel and 40% in new barriques (225lt) on yeast with periodic battonage",
+      "pairing": "Particularly suited to accompany shellfish, raw fish & white meats"
+    }
+  },
+  {
+    "id": 25,
+    "item": {
+      "productName": "Armason",
+      "productDescription": "Chianti Villa Montgeinri",
+      "productPrice": "$21",
+      "productImage": "img25.png",
+      "productDetails": "24-italy-min.jpg",
+      "productDetailsMobile": "24-Armason-min.jpg",
+      "productCountry": "Italy",
+      "productRegion": "Piedmont",
+      "productType": "White",
+      "productBrand": "La Bollina",
+      "grapeVariety": "Chardonnay",
+      "abv": "13.5%",
+      "acidity": "6.3g/l",
+      "sugar": "6.9g/l",
+      "servingTemp": "10-12°C",
+      "vintage": "2021",
+      "senses": {
+        "eye": "Straw yellow",
+        "nose": "Composition of fruit, hints of chamomile, vanilla & a slight tropical note that recalls passion fruit & pineapple",
+        "mouth": "Strong but balanced acidity, fresh, elegant & persistent"
+      },
+      "vinification": "The grapes are picked fully ripe, conducted in the cellar and work in a very short time to avoid problems of oxidation. Then destemmed in presence of dry ice to cool them and prevent the oxidation of precious aromas. The pressing and immediate decantation at low temperature, allow to obtain a yellow / green must with strong aromatic potential. Alcoholic fermentation in steel and barriques",
+      "aging": "6 months 60% in steel and 40% in new barriques (225lt) on yeast with periodic battonage",
+      "pairing": "Particularly suitable for combinations such as chicken soup, omelets, shrimp, grilled fish"
+    }
+  },
+  {
+    "id": 26,
+    "item": {
+      "productName": "Merlot",
+      "productDescription": "Chianti Villa Montgeinri",
+      "productPrice": "$8",
+      "productImage": "img26.png",
+      "productDetails": "1-french-min.jpg",
+      "productDetailsMobile": "1-Merlot-min.jpg",
+      "productCountry": "France",
+      "productRegion": "Aude",
+      "productType": "Red",
+      "productBrand": "French Dog",
+      "grapeVariety": "Merlot",
+      "abv": "#",
+      "acidity": "3.35g/l",
+      "sugar": "18.9g/l",
+      "servingTemp": "16-18°C",
+      "vintage": "2021",
+      "senses": {
+        "eye": "Deep brilliant raspberry colour, with purple rim",
+        "nose": "A pronounced nose with fruity (black plum and blackberry) and vanilla notes.",
+        "mouth": "Well-rounded palate, gourmand & fruity. This wine reveals delicious aromas of red fruits & chocolate"
+      },
+      "vinification": "The healthy, crushed and destemmed harvest is vinified in the traditional manner. Fermentation and maceration take place at a controlled temperature, with maceration for approximately one week. Final blend integrates oaky merlot, giving roasted and vanilla hints.",
+      "aging": "Refined 4 months in stainless steel tanks",
+      "pairing": "Ready to drink now, this wine is best enjoyed at room temperature (18°C) to accompany a meal outside, a platter of charcuterie meats, grilled meats or a pasta meal. You can also serve it more fresh for an aperitif"
+    }
+  },
+  {
+    "id": 27,
+    "item": {
+      "productName": "Cabernet Sauvignon",
+      "productDescription": "Chianti Villa Montgeinri",
+      "productPrice": "$8",
+      "productImage": "img27.png",
+      "productDetails": "2-french-min.jpg",
+      "productDetailsMobile": "2-Cabernet Sauvignon-min.jpg",
+      "productCountry": "France",
+      "productRegion": "Aude",
+      "productType": "Red",
+      "productBrand": "French Dog",
+      "grapeVariety": "Cabernet Sauvignon",
+      "abv": "####",
+      "acidity": "2.72g/l",
+      "sugar": "11g/l",
+      "servingTemp": "16-18°C",
+      "vintage": "2021",
+      "senses": {
+        "eye": "Deep ruby colour, with raspberry rim",
+        "nose": "Delicate fruity nose, first evocating of berry's juice; when agitating, raspberry and blackberry notes become more intense, mingled with hot spices (cinnamon and nutmeg)",
+        "mouth": "Fleshy & well-balanced palate, expressing both powerful fruit and varietal elegance of Cabernet Sauvignon grapes. Fine strong finish of blackberry, blackcurrant & cocoa"
+      },
+      "vinification": "Wine making takes place in temperaturecontrolled vats. After a short, prefermentation, maceration, the fermentation takes place a very quickly (over 4 or 5 days), and the wines are then immediately run off. This technique enables the richness and generosity of the Cabernet grapes to be fully expressed..",
+      "aging": "Refined 4 months in stainless steel tanks",
+      "pairing": "A perfect match to red meat, charcuterie, & hard cheese"
+    }
+  },
+  {
+    "id": 28,
+    "item": {
+      "productName": "Grenache Rose",
+      "productDescription": "Chianti Villa Montgeinri",
+      "productPrice": "$8",
+      "productImage": "img28.png",
+      "productDetails": "3-french-min.jpg",
+      "productDetailsMobile": "3-GrenacheRose-min.jpg",
+      "productCountry": "France",
+      "productRegion": "Aude",
+      "productType": "Rose",
+      "productBrand": "French Dog",
+      "grapeVariety": "Grenache",
+      "abv": "####",
+      "acidity": "3.39g/l",
+      "sugar": "21.3g/l",
+      "servingTemp": "6-8°C",
+      "vintage": "2021",
+      "senses": {
+        "eye": "Pale, livened up by salmon tints",
+        "nose": "The expressive bouquet is reminiscent of floral notes and fresh strawberries .",
+        "mouth": "A light and fruity wine that reveals delicate aromas of gourmet red fruits"
+      },
+      "vinification": "The juice comes from complete bleeding of the vats of Grenache (after a very short maceration of 2 to 6 hours in an inert atmosphere) and is fermented at low temperatures to conserve all the delicate flavours of the Grenache variety.",
+      "aging": "Refined 4 months in stainless steel tanks",
+      "pairing": "Goes well with summer salads, pan-fried vegetables, grills or even red fruits dessert"
+    }
+  },
+  {
+    "id": 29,
+    "item": {
+      "productName": "Blanc Sucre",
+      "productDescription": "Chianti Villa Montgeinri",
+      "productPrice": "$9",
+      "productImage": "img29.png",
+      "productDetails": "4-french-min.jpg",
+      "productDetailsMobile": "4-BlancSucre-min.jpg",
+      "productCountry": "France",
+      "productRegion": "Côtes de Gascogne",
+      "productType": "White",
+      "productBrand": "French Dog",
+      "grapeVariety": "Gros Manseng",
+      "abv": "####",
+      "acidity": "5.25g/l",
+      "sugar": "27.2g/l",
+      "servingTemp": "8-10°C",
+      "vintage": "2021",
+      "senses": {
+        "eye": "Pale yellow colour",
+        "nose": "Fairly complex, first expressing citrus notes (lime, lemon). Swirling then reveals delicate aromas of white fruits.",
+        "mouth": "Great balance. The perfect ripeness of grapes brings notes of cooked apricots & pears"
+      },
+      "vinification": "The grapes are pressed using a pneumatic press. The musts of the resultant juice are left to settle under cold conditions (8°C). Alcoholic fermentation takes place in temperature controlled vats (18°C), started off by the addition of yeasts which are specially selected for their ability to bring out the aromas of the Gros Manseng.",
+      "aging": "Refined 4 months in stainless steel tanks",
+      "pairing": "Amazing with blue cheese, couscous or cooked prune lamb "
+    }
+  },
+  {
+    "id": 30,
+    "item": {
+      "productName": "Sauvignon Blanc",
+      "productDescription": "Chianti Villa Montgeinri",
+      "productPrice": "$8",
+      "productImage": "img30.png",
+      "productDetails": "5-french-min.jpg",
+      "productDetailsMobile": "5-Sauvignon Blanc-min.jpg",
+      "productCountry": "France",
+      "productRegion": "Bordeaux",
+      "productType": "White",
+      "productBrand": "Château Le Couat",
+      "grapeVariety": "Sauvignon Blanc",
+      "abv": "####",
+      "acidity": "3.20g/l",
+      "sugar": "0.5g/l",
+      "servingTemp": "8-10°C",
+      "vintage": "2020",
+      "senses": {
+        "eye": "Pale yellow robe ",
+        "nose": "a nose packed with powerful fresh fruit aromas as lemon, nectarine and pear",
+        "mouth": "The attack is lively & fruity, with prominent citrus notes building to a fresh, soft and clean finish"
+      },
+      "vinification": "The wine is aged in stainless steel vat to preserve freshness and fruit flavors. ",
+      "aging": "Refined 4 months in stainless steel tanks",
+      "pairing": "Grilled fish, vegetables, chicken salad and goat cheese "
+    }
+  },
+  {
+    "id": 31,
+    "item": {
+      "productName": "Bordeaux Sauvignon Blanc",
+      "productDescription": "Chianti Villa Montgeinri",
+      "productPrice": "$9",
+      "productImage": "img31.png",
+      "productDetails": "6-french-min.jpg",
+      "productDetailsMobile": "6-Bordeaux Sauvignon Blanc-min.jpg",
+      "productCountry": "France",
+      "productRegion": "Bordeaux",
+      "productType": "White",
+      "productBrand": "Château La Fleur du Casse",
+      "grapeVariety": "Sauvignon Blanc",
+      "abv": "####",
+      "acidity": "4.13g/l",
+      "sugar": "0.5g/l",
+      "servingTemp": "8-10°C",
+      "vintage": "2021",
+      "senses": {
+        "eye": "pale yellow robe ",
+        "nose": "peach and crips lime freshness",
+        "mouth": "With fresh & crisp citrus aromas while the core of white peach and white nectarine fruit glides through easily, picking up verbena & tangerine echoes on the finish"
+      },
+      "vinification": "Mechanical harvest with traditional Bordeaux white winemaking. All berries are pressed in a temperature controlled vat to preserve freshness, acidity, fruit flavors  and vivacity. ",
+      "aging": "Refined 4 months in stainless steel tanks",
+      "pairing": "Perfect for aperitif, with seafood, vegetables, white meats or fish"
+    }
+  },
+  {
+    "id": 32,
+    "item": {
+      "productName": "Bergerac",
+      "productDescription": "Chianti Villa Montgeinri",
+      "productPrice": "$6",
+      "productImage": "img32.png",
+      "productDetails": "7-french-min.jpg",
+      "productDetailsMobile": "7-Bergerac-min.jpg",
+      "productCountry": "France",
+      "productRegion": "Bergerac",
+      "productType": "Red",
+      "productBrand": "Seigneurs de Bergerac ",
+      "grapeVariety": "Merlot, Cabernet Sauvignon, Cabernet Franc",
+      "abv": "####",
+      "acidity": "3.37g/l",
+      "sugar": "0.5g/l",
+      "servingTemp": "16-18°C",
+      "vintage": "2016",
+      "senses": {
+        "eye": "Beautiful ruby color, deep and brillant",
+        "nose": "expressive and delicious with notes of ripe black fruits and raspberry jam",
+        "mouth": "Smooth attack, fruity aromas of black current & dark cherries"
+      },
+      "vinification": "The grapes, picked at perfect maturity, are de-stemmed and lightly crushed. The maceration, which lasts about 15 days, is done by controlling the temperatures. The draining is decided when the balance of the wine is achieved. The wine is then matured in stainless steel tanks for 6 to 8 months.",
+      "aging": "Refined 4 months in stainless steel tanks",
+      "pairing": "This wine will be excellent with dishes of white meat (chicken, turkey…) & a variety of cheeses"
+    }
+  },
+  {
+    "id": 33,
+    "item": {
+      "productName": "Les Confreries",
+      "productDescription": "Chianti Villa Montgeinri",
+      "productPrice": "$6",
+      "productImage": "img33.png",
+      "productDetails": "8-french-min.jpg",
+      "productDetailsMobile": "8-LesConfreriesjpg-min.jpg",
+      "productCountry": "France",
+      "productRegion": "Côtes de Gascogne Blanc",
+      "productType": "White",
+      "productBrand": "Yvon Mau",
+      "grapeVariety": "Colombard, Chardonnay",
+      "abv": "####",
+      "acidity": "6.25g/l",
+      "sugar": "0.4g/l",
+      "servingTemp": "8-10°C",
+      "vintage": "2021",
+      "senses": {
+        "eye": "A crystalline, very pale yellow colour",
+        "nose": "Intense and fairly complex, first expressing the varietal notes of the Colombard (lime, lemon) and a delicate mineral hint (flint). Swirling then reveals white fruit aromas mingling with floral notes (acacia, wisteria)",
+        "mouth": "Lively and fleshy in the attack, great balance. In the finish the lemon & peach notes include a subtle hint of green mango"
+      },
+      "vinification": "The grapes are pressed using a pneumatic press. The musts of the resultant juice are left to settle under cold conditions (8°C). Alcoholic fermentation takes place in temperature controlled vats (18°C), started off by the addition of yeasts which are specially selected for their ability to bring out the aromas of the Chardonnay and Colombard grapes.",
+      "aging": "Refined 4 months in stainless steel tanks",
+      "pairing": "This wine makes an ideal aperitif & is the perfect partner to fish cooked in a sauce"
+    }
+  },
+  {
+    "id": 34,
+    "item": {
+      "productName": "Merlot",
+      "productDescription": "Chianti Villa Montgeinri",
+      "productPrice": "$8",
+      "productImage": "img34.png",
+      "productDetails": "9-french-min.jpg",
+      "productDetailsMobile": "9-Beauchatel Merlot-min.jpg",
+      "productCountry": "France",
+      "productRegion": "Aude",
+      "productType": "Red",
+      "productBrand": "Beauchatel",
+      "grapeVariety": "Merlot",
+      "abv": "####",
+      "acidity": "3.07g/l",
+      "sugar": "7.8g/l",
+      "servingTemp": "16-18°C",
+      "vintage": "2020",
+      "senses": {
+        "eye": "Deep brilliant raspberry colour, with purple rim",
+        "nose": "Pronounced fruity nose with blackberry, ripe black plum and a hint of black pepper",
+        "mouth": "Well-rounded palate, balanced between fleshy structure & fruity character (cooked plums & blueberries)"
+      },
+      "vinification": "The healthy, crushed and destemmed harvest is vinified in the traditional manner. Fermentation and maceration take place at a controlled temperature, with maceration for approximately one week.",
+      "aging": "Refined 4 months in stainless steel tanks",
+      "pairing": "Platter of charcuterie meats, grilled steak & ragou"
+    }
+  },
+  {
+    "id": 35,
+    "item": {
+      "productName": "Bordeaux Rouge",
+      "productDescription": "Chianti Villa Montgeinri",
+      "productPrice": "$10",
+      "productImage": "img35.png",
+      "productDetails": "10-french-min.jpg",
+      "productDetailsMobile": "10-Bordeaux Rouge-min.jpg",
+      "productCountry": "France",
+      "productRegion": "Bordeaux",
+      "productType": "Red",
+      "productBrand": "Château Jean L'arc",
+      "grapeVariety": "Merlot, Cabernet Sauvignon",
+      "abv": "####",
+      "acidity": "3.66g/l",
+      "sugar": "0.5g/l",
+      "servingTemp": "16-18°C",
+      "vintage": "2019",
+      "senses": {
+        "eye": "Deep and brilliant ruby color",
+        "nose": "An intense nose of peony and red fruits ",
+        "mouth": "Rich mouthfill, structured & full of expression"
+      },
+      "vinification": "The grapes are vinified in the traditional way: natural alcoholic fermentation, long vatting, pumping over twice a day. The tanks of wine making are in stainless steel with thermal regulation.",
+      "aging": "Refined 4 months in stainless steel tanks",
+      "pairing": "Ideal on a lasagna dish or a pork roast "
+    }
+  },
+  {
+    "id": 36,
+    "item": {
+      "productName": "Saint-Emilion Grand Cru",
+      "productDescription": "Chianti Villa Montgeinri",
+      "productPrice": "$29",
+      "productImage": "img36.png",
+      "productDetails": "11-french-min.jpg",
+      "productDetailsMobile": "11-SaintEmilionGrandCru-min.jpg",
+      "productCountry": "France",
+      "productRegion": "Saint-Émilion Grand Cru",
+      "productType": "Red",
+      "productBrand": "Château du Val D'or",
+      "grapeVariety": "Merlot, Cabernet Franc, Cabernet Sauvignon",
+      "abv": "####",
+      "acidity": "3.25 g/l",
+      "sugar": "0.2 g/l",
+      "servingTemp": "16-18°C",
+      "vintage": "2019",
+      "senses": {
+        "eye": "Consistent, vibrant, ruby-red robe with a raspberry halo",
+        "nose": "Elegant and still slightly understated, with blackberry and grilled meat aromas accented with a subtle hint of menthol",
+        "mouth": "Balanced, elegant & dense. Black fruits & undergrowth notes, peppered with nicely-rounded roasted aromas"
+      },
+      "vinification": "Vinification using traditional methods: natural alcoholic fermentation, long vatting, pumping over twice daily. The vats are stainless steel, with temperature control systems.",
+      "aging": "Refined 4 months in stainless steel tanks",
+      "pairing": "Perfect with braised or jugged meats red meats"
+    }
+  },
+  {
+    "id": 37,
+    "item": {
+      "productName": "Cuvee La Fleur",
+      "productDescription": "Chianti Villa Montgeinri",
+      "productPrice": "$25",
+      "productImage": "img37.png",
+      "productDetails": "12-french-min.jpg",
+      "productDetailsMobile": "12-CuveeLaFleur-min.jpg",
+      "productCountry": "France",
+      "productRegion": "Saint-Émilion Grand Cru",
+      "productType": "Red",
+      "productBrand": "Château Petit Mangot",
+      "grapeVariety": "Merlot, Cabernet Franc",
+      "abv": "####",
+      "acidity": "2.92g/l",
+      "sugar": "0.5g/l",
+      "servingTemp": "16-18°C",
+      "vintage": "2019",
+      "senses": {
+        "eye": "Deep ruby color",
+        "nose": "Ripe blackberries with hint of cofee",
+        "mouth": "Full-bodied & ripe with a fine, well-balanced finish"
+      },
+      "vinification": "grapes sorted by hand at the winery, plot-by-plot selection, temperature control, vatting time of around 3 weeks,",
+      "aging": "Refined 4 months in stainless steel tanks",
+      "pairing": "Goes well with grilled chicken, red meats & cheese"
+    }
+  },
+  {
+    "id": 38,
+    "item": {
+      "productName": "Bordeaux Rouge",
+      "productDescription": "Chianti Villa Montgeinri",
+      "productPrice": "$9",
+      "productImage": "img38.png",
+      "productDetails": "13-french-min.jpg",
+      "productDetailsMobile": "13-Bordeaux Rouge-min.jpg",
+      "productCountry": "France",
+      "productRegion": "Bordeaux",
+      "productType": "Red",
+      "productBrand": "Château Haut Bernicot",
+      "grapeVariety": "Merlot, Cabernet Sauvignon",
+      "abv": "####",
+      "acidity": "2.98g/l",
+      "sugar": "0.68g/l",
+      "servingTemp": "16-18°C",
+      "vintage": "2020",
+      "senses": {
+        "eye": "Beautiful deep ruby red color",
+        "nose": "full-bodied nose rich in candied fruit aromas",
+        "mouth": "The mouth is structured, full of character, long & balanced"
+      },
+      "vinification": "Traditional Bordeaux winemaking in tanks. ",
+      "aging": "Refined 4 months in stainless steel tanks",
+      "pairing": "The richness of this wine will be appreciated with roasted or grilled meats"
+    }
+  },
+  {
+    "id": 39,
+    "item": {
+      "productName": "L'angelot du Clos des Prince",
+      "productDescription": "Chianti Villa Montgeinri",
+      "productPrice": "$28",
+      "productImage": "img39.png",
+      "productDetails": "14-french-min.jpg",
+      "productDetailsMobile": "14-L'angelot du Clos des Prince-min.jpg",
+      "productCountry": "France",
+      "productRegion": "Saint-Émilion Grand Cru",
+      "productType": "Red",
+      "productBrand": "Clos des Prince",
+      "grapeVariety": "Merlot, Cabernet Franc",
+      "abv": "####",
+      "acidity": "3.25g/l",
+      "sugar": "0.5g/l",
+      "servingTemp": "16-18°C",
+      "vintage": "2016",
+      "senses": {
+        "eye": " elegant dark red",
+        "nose": "On the nose, small red fruits, especially raspberry, hints of laurel, iodized nuances ending on notes of eucalyptus",
+        "mouth": "The mouth reveals its juiciness, density & crunchiness. Iodized tannins, very long persistence. Small red fruits notes in the aftertaste"
+      },
+      "vinification": "Whole batch all together in stainless steel tank.",
+      "aging": "60% new French oak for 15 months",
+      "pairing": "Red & white meats, cheeses & barbecue"
+    }
+  },
+  {
+    "id": 40,
+    "item": {
+      "productName": "Margaux ",
+      "productDescription": "Chianti Villa Montgeinri",
+      "productPrice": "$28",
+      "productImage": "img40.png",
+      "productDetails": "15-french-min.jpg",
+      "productDetailsMobile": "15-Margaux-min.jpg",
+      "productCountry": "France",
+      "productRegion": "Margaux",
+      "productType": "Red",
+      "productBrand": "Château Cusseau",
+      "grapeVariety": "Cabernet Sauvignon, Merlot",
+      "abv": "####",
+      "acidity": "3.26g/l",
+      "sugar": "0.5g/l",
+      "servingTemp": "16-18°C",
+      "vintage": "2018",
+      "senses": {
+        "eye": "Dark ruby color",
+        "nose": "Intense, with black-fruit and vanilla notes. ",
+        "mouth": "Black-fruit flavors (cassis, blueberry) mingle with notes of roasted coffee & vanilla, giving the wine complexity, power & roundness"
+      },
+      "vinification": "Vatting for 3 weeks in stainless steel vats. Cooling by run-off.",
+      "aging": "Maturing for 10 months in casks, one-third of which are one-wine barrels",
+      "pairing": "Grilled steak, stew lamb, hard cheese & Daube"
+    }
+  },
+  {
+    "id": 41,
+    "item": {
+      "productName": "Atypiquement Bordeaux Rose",
+      "productDescription": "Chianti Villa Montgeinri",
+      "productPrice": "$15",
+      "productImage": "img41.png",
+      "productDetails": "16-french-min.jpg",
+      "productDetailsMobile": "16-ChateauMarquisdeTerme-min.jpg",
+      "productCountry": "France",
+      "productRegion": "Bordeaux",
+      "productType": "Rose",
+      "productBrand": "Premius",
+      "grapeVariety": "Merlot",
+      "abv": "####",
+      "acidity": "3.08g/l",
+      "sugar": "1.06g/l",
+      "servingTemp": "6-8°C",
+      "vintage": "2021",
+      "senses": {
+        "eye": "elegant, very pale, brilliant bluish pink colour",
+        "nose": "The nose is intense and fresh with notes of English candy. Redcurrant blends with raspberry, pear and banana in a fine and delicate bouquet",
+        "mouth": "The palate is fresh & rich, with a subtle balance between crunchy fruitiness, volume in the mouth & aromatic persistence"
+      },
+      "vinification": "There is great potential for fruitiness and freshness. The grapes are harvested when just ripe and then destemmed (separating the grapes themselves from the green parts). The grapes spend a short period (a few hours) being macerated before being placed in vats.",
+      "aging": "Refined 4 months in stainless steel tanks",
+      "pairing": "Premius Rosé is here to breathe some fresh air into relaxing breaks. Whether with an oyster platter by the seaside, sat next to the fireplace, or alongside lunch out on the terrace, I have more than one ace up my sleeve to ensure a break that is anything but ordinary. Perfect to enjoy by the pool, with tapas or antipasti, Premius Rosé will also accompany your exotic salads, sushi and barbecues with friends."
+    }
+  },
+  {
+    "id": 42,
+    "item": {
+      "productName": "Le Rose de Marquis",
+      "productDescription": "Chianti Villa Montgeinri",
+      "productPrice": "$18",
+      "productImage": "img42.png",
+      "productDetails": "17-french-min.jpg",
+      "productDetailsMobile": "17-LeRosedeMarquis-min.jpg",
+      "productCountry": "France",
+      "productRegion": "Côtes de Provence",
+      "productType": "Rose",
+      "productBrand": "Château Marquis de Terme",
+      "grapeVariety": "Grenache Cinsault, Tibouren",
+      "abv": "####",
+      "acidity": "2.9g/l",
+      "sugar": "1.2g/l",
+      "servingTemp": "6-8°C",
+      "vintage": "2019",
+      "senses": {
+        "eye": "bright pink salmon color",
+        "nose": "Fresh and balance, with aromas of fresh strawberry, sweet orange and white flowers",
+        "mouth": "Direct pressing of de-stemmed grapes after harvesting only in the coolest hours of the morning to preserve the fruitiness and a pale color. Cold pre-fermentation stabilization for 1 week followed by a temperature controlled fermentation"
+      },
+      "vinification": "Direct pressing of de-stemmed grapes after harvesting only in the coolest hours of the morning to preserve the fruitiness and a pale color. Cold pre-fermentation stabilization for 1 week followed by a temperature controlled fermentation",
+      "aging": "Refined 4 months in stainless steel tanks",
+      "pairing": "Grilled chicken, vegetables, summer dishes & fruits dessert "
+    }
+  },
+  {
+    "id": 43,
+    "item": {
+      "productName": "Saint-Emilion Grand Cru",
+      "productDescription": "Chianti Villa Montgeinri",
+      "productPrice": "$31",
+      "productImage": "img43.png",
+      "productDetails": "18-french-min.jpg",
+      "productDetailsMobile": "18-SaintEmilionGrandCru-min.jpg",
+      "productCountry": "France",
+      "productRegion": "Saint-Émilion Grand Cru",
+      "productType": "Red",
+      "productBrand": "Château Tauzinat l'Hermitage",
+      "grapeVariety": "Merlot, Cabernet Franc",
+      "abv": "####",
+      "acidity": "2.91g/l",
+      "sugar": "0.42g/l",
+      "servingTemp": "16-18°C",
+      "vintage": "2019",
+      "senses": {
+        "eye": "Red color with brown spikes",
+        "nose": "Charming and elegant balck berries notes and smoky hints",
+        "mouth": "Vibrant & intense ripe fruit flavors. Red berries &dark cherries with spicy notes. "
+      },
+      "vinification": "Sustainable viticulture, favored ploughing and grass cover crop. Fermentation in temperature controlled concrete tanks, operations according to daily tasting",
+      "aging": "100% in oak barrels for 12 months with 27 % of new barrels, 27 % of one year old barrels and 46% of two years old barrels",
+      "pairing": "Duck confit or beef entrecôte"
+    }
+  },
+  {
+    "id": 44,
+    "item": {
+      "productName": "Le Blanc Sec de Suduiraut",
+      "productDescription": "Chianti Villa Montgeinri",
+      "productPrice": "$28",
+      "productImage": "img44.png",
+      "productDetails": "19-fench.jpg",
+      "productDetailsMobile": "19-Le Blanc Sec de Suduiraut-min.jpg",
+      "productCountry": "France",
+      "productRegion": "Bordeaux",
+      "productType": "White",
+      "productBrand": "Château Suduiraut",
+      "grapeVariety": "Sémillon, Sauvignon blanc",
+      "abv": "####",
+      "acidity": "3.34g/l",
+      "sugar": "3g/l",
+      "servingTemp": "10-12°C",
+      "vintage": "2020",
+      "senses": {
+        "eye": "brilliant pale yellow color ",
+        "nose": "Complex and distinguished nose. Floral, aniseed and mineral, the nose evolves towards notes of verbena, lemon, grapefruit with a touch of hazelnut, reflecting the barrel ageing",
+        "mouth": "The mouth has a nice tension & we find mineral & citrus notes, evolving on yellow fruits with aeration. The finish is fresh with citrus & lime"
+      },
+      "vinification": "Bordeaux winemaking",
+      "aging": "10% new oak  / 90% old oak barrels for 9 monts",
+      "pairing": "Best with vegetables, especially roasted vegetables & fish"
+    }
+  },
+  {
+    "id": 45,
+    "item": {
+      "productName": "Lune d'Argent",
+      "productDescription": "Chianti Villa Montgeinri",
+      "productPrice": "$26",
+      "productImage": "img45.png",
+      "productDetails": "20-french-min.jpg",
+      "productDetailsMobile": "20-Lune d'Argent-min.jpg",
+      "productCountry": "France",
+      "productRegion": "Bordeaux",
+      "productType": "White",
+      "productBrand": "Clos des Lunes",
+      "grapeVariety": "Sémillon, Sauvignon blanc",
+      "abv": "####",
+      "acidity": "4.04g/l",
+      "sugar": "3g/l",
+      "servingTemp": "10-12°C",
+      "vintage": "2021",
+      "senses": {
+        "eye": "Light yellow color with pale green tints.",
+        "nose": "Intense and complex nose of exotic white fruits and citrus fruit mixed with floral notes of linden and acacia",
+        "mouth": "The palate is rich, generous, ample & intensely fruity, with very good tension"
+      },
+      "vinification": "The winemaking practices at Clos des Lunes take inspiration from those of Domaine de Chevalier, and benefit from an expertise in creating impressive dry white wines. Just like at Chevalier, the harvest at Clos des Lunes is carried out by hand, with extreme care and several passes through the vines as the grapes reach maturity. In the winery, the purity of the fruit therefore allows for a simple, natural vinification that enables the individual properties of the terroir to reveal themselves. Following the precise and plot-by-plot approach to harvesting, vinification takes place in small thermo-regulated vats of 50 hectolitres or in barrels. This is determined according to the quality of wine, following a very gentle, slow pressing of the grapes.",
+      "aging": "Regulated vats of 50 hectolitres or in barrels",
+      "pairing": "Try a white fish, like halibut, with roasted carrots or zucchini. Also perect white white meats & seafood"
+    }
+  },
+  {
+    "id": 46,
+    "item": {
+      "productName": "Blanc de Qanafar",
+      "productDescription": "Chianti Villa Montgeinri",
+      "productPrice": "$15",
+      "productImage": "img46.png",
+      "productDetails": "1-lebanon-min.jpg",
+      "productDetailsMobile": "1-Blac de qanafar-jpg-min.jpg",
+      "productCountry": "Lebanon",
+      "productRegion": "West Bekaa",
+      "productType": "White",
+      "productBrand": "Château Qanafar",
+      "grapeVariety": "Sauvignon Blanc",
+      "abv": "12.5%",
+      "acidity": "5.3g/l",
+      "sugar": "0g/l",
+      "servingTemp": "8-10°C",
+      "vintage": "2020",
+      "senses": {
+        "eye": "Clear light yellow",
+        "nose": "Classic Sauvignon Blanc aromas centered on grapefruit, passion fruit & guava, followed by an elegant herbal finale",
+        "mouth": "The flavors are elevated by a crisp acidity & a tantalizingly lingering tail"
+      },
+      "vinification": "",
+      "aging": "9 months in stainless steel tank, cold stabilization",
+      "pairing": "Cheeses, seafood or dishes with rich white sauces"
+    }
+  },
+  {
+    "id": 47,
+    "item": {
+      "productName": "Riesling",
+      "productDescription": "Chianti Villa Montgeinri",
+      "productPrice": "$17",
+      "productImage": "img47.png",
+      "productDetails": "2-lebanon-min.jpg",
+      "productDetailsMobile": "2-Riesling-min.jpg",
+      "productCountry": "Lebanon",
+      "productRegion": "West Bekaa",
+      "productType": "White",
+      "productBrand": "Château Qanafar",
+      "grapeVariety": "Riesling",
+      "abv": "12.0%",
+      "acidity": "4g/l",
+      "sugar": "0.6g/l",
+      "servingTemp": "10-12°C",
+      "vintage": "2019",
+      "senses": {
+        "eye": "Bright yellow, golden hues",
+        "nose": "Mainly floral with lime peel & apricot coming through, followed by a hint of natural rubber",
+        "mouth": "Fully dry wine, with apple, pear & stone fruit notes brightened by a crisp acidity"
+      },
+      "vinification": "",
+      "aging": "",
+      "pairing": "Vegetarian dishes with light or no sauces, seafood, chicken & pasta dishes. A great combination with Middles-Easter dishes"
+    }
+  },
+  {
+    "id": 48,
+    "item": {
+      "productName": "Eva",
+      "productDescription": "Chianti Villa Montgeinri",
+      "productPrice": "$20",
+      "productImage": "img48.png",
+      "productDetails": "3-lebanon-min.jpg",
+      "productDetailsMobile": "3-Eva-min.jpg",
+      "productCountry": "Lebanon",
+      "productRegion": "West Bekaa",
+      "productType": "White",
+      "productBrand": "Château Qanafar",
+      "grapeVariety": "Viognier",
+      "abv": "13.5%",
+      "acidity": "5.5g/l",
+      "sugar": "0g/l",
+      "servingTemp": "10-12°C",
+      "vintage": "2019",
+      "senses": {
+        "eye": "Clear light yellow",
+        "nose": "An elegant fruit married to floral notes, with aromas of toasted wheat & grilled bread",
+        "mouth": "Zesty & refreshing on the palate"
+      },
+      "vinification": "",
+      "aging": "12 months in 2nd and 3rd passage French oak barrels",
+      "pairing": "Creamy/buttery cheeses, foie gras, chicken & lamb dishes with fruits, spicy/creamy curries & rich shellfish dishes"
+    }
+  },
+  {
+    "id": 49,
+    "item": {
+      "productName": "Mago",
+      "productDescription": "Chianti Villa Montgeinri",
+      "productPrice": "$10",
+      "productImage": "img49.png",
+      "productDetails": "4-lebanon-min.jpg",
+      "productDetailsMobile": "4-Mago-min.jpg",
+      "productCountry": "Lebanon",
+      "productRegion": "West Bekaa",
+      "productType": "Red",
+      "productBrand": "Château Qanafar",
+      "grapeVariety": "Cinsault, Syrah, Cabernet Sauvignon",
+      "abv": "14.5%",
+      "acidity": "3.7g/l",
+      "sugar": "3.3g/l",
+      "servingTemp": "16-18°C",
+      "vintage": "2018",
+      "senses": {
+        "eye": "Clear bright ruby red",
+        "nose": "Ripe strawberries & blueberries touched by lightly toasted oak, warm spices such as cloves & cinnamon",
+        "mouth": "Soft red fruits, cedar wood, with some herbal notes elevated by a bright acidity & a lingering tail centered on blackcurrant flavors"
+      },
+      "vinification": "",
+      "aging": "",
+      "pairing": "Rich grilled meats, meat stews, boeuf bourguignon, escargot, peppery sauces, dishes with high flavor"
+    }
+  },
+  {
+    "id": 50,
+    "item": {
+      "productName": "Petit Paradis de Qanafar",
+      "productDescription": "Chianti Villa Montgeinri",
+      "productPrice": "$10",
+      "productImage": "img50.png",
+      "productDetails": "5-lebanon-min.jpg",
+      "productDetailsMobile": "5-Petit Paradis de Qanafar-min.jpg",
+      "productCountry": "Lebanon",
+      "productRegion": "West Bekaa",
+      "productType": "Red",
+      "productBrand": "Château Qanafar",
+      "grapeVariety": "Cabernet Sauvignon, Merlot, Syrah, Tempranillo",
+      "abv": "14.5%",
+      "acidity": "5.1g/l",
+      "sugar": "1.1g/l",
+      "servingTemp": "16-18°C",
+      "vintage": "2018",
+      "senses": {
+        "eye": "Dark red",
+        "nose": "Chewy tannins envelop a biting, complex fruit with opulent notes of ripe red & black fruits balanced with some spice",
+        "mouth": "Good acidity and balance between attack, middle & finish on a palate which confirms the nose"
+      },
+      "vinification": "",
+      "aging": "",
+      "pairing": "Rich grilled meats, peppery sauces & dishes with high flavor"
+    }
+  },
+  {
+    "id": 51,
+    "item": {
+      "productName": "Paradis de Qanafar",
+      "productDescription": "Chianti Villa Montgeinri",
+      "productPrice": "$15",
+      "productImage": "img51.png",
+      "productDetails": "6-lebanon-min.jpg",
+      "productDetailsMobile": "6-Paradis de Qanafar-min.jpg",
+      "productCountry": "Lebanon",
+      "productRegion": "West Bekaa",
+      "productType": "Red",
+      "productBrand": "Château Qanafar",
+      "grapeVariety": "Cabernet Sauvignon, Syrah, Merlot",
+      "abv": "15.5%",
+      "acidity": "3.5g/l",
+      "sugar": "2.7g/l",
+      "servingTemp": "16-18°C",
+      "vintage": "2016",
+      "senses": {
+        "eye": "Dark red",
+        "nose": "Soft tannins envelop a complex fruit kissed by oak, with notes of cassis, black fruits & spices",
+        "mouth": "Good acidity and balance between attack, middle & finish on a palate which confirms the nose"
+      },
+      "vinification": "",
+      "aging": "12 months in 2nd and 3rd passage French oak barrels",
+      "pairing": "Rich grilled meats, peppery sauces, dishes with high flavor, Middle-Eastern dishes & game meats"
+    }
+  },
+  {
+    "id": 52,
+    "item": {
+      "productName": "Chateau Qanafar",
+      "productDescription": "Chianti Villa Montgeinri",
+      "productPrice": "$20",
+      "productImage": "img52.png",
+      "productDetails": "7-lebanon-min.jpg",
+      "productDetailsMobile": "7-ChateauQanafar-min.jpg",
+      "productCountry": "Lebanon",
+      "productRegion": "West Bekaa",
+      "productType": "Red",
+      "productBrand": "Château Qanafar",
+      "grapeVariety": "Syrah, Cabernet Sauvignon",
+      "abv": "15.5%",
+      "acidity": "3.6g/l",
+      "sugar": "1g/l",
+      "servingTemp": "16-18°C",
+      "vintage": "2015",
+      "senses": {
+        "eye": "Deep dark red",
+        "nose": "Complex & very elegant with notes of ripe black fruits married to velvety oak tannins",
+        "mouth": "Good acidity to balance the fruitiness and a remarkable equilibrium between attack, mid-palate & finish"
+      },
+      "vinification": "",
+      "aging": "12 months in French oak barrels",
+      "pairing": "Rich grilled meats & vegetables, braised beef, aged hard cheeses, barbecued glazed chicken, duck, tuna & game meats"
+    }
+  },
+
+  {
+    "id": 53,
+    "item": {
+      "productName": "Chateau Qanafar",
+      "productDescription": "Chianti Villa Montgeinri",
+      "productPrice": "$30",
+      "productImage": "img53.png",
+      "productDetails": "8-lebanon-min.jpg",
+      "productDetailsMobile": "8-ChateauQanafar2009-min.jpg",
+      "productCountry": "Lebanon",
+      "productRegion": "West Bekaa",
+      "productType": "Red",
+      "productBrand": "Château Qanafar",
+      "grapeVariety": "Cabernet Sauvignon, Merlot, Syrah",
+      "abv": "15%",
+      "acidity": "6g/l",
+      "sugar": "2g/l",
+      "servingTemp": "16-18°C",
+      "vintage": "2009",
+      "senses": {
+        "eye": "Deep ruby red",
+        "nose": "Ripe red & black fruits followed by oak",
+        "mouth": "Blackberries, red currant, raspberries & spices supported by well-rounded fruit & oak tannins. Good balance between attack, mid-palate & finish, though slightly greater emphasis on the mid-palate through finish"
+      },
+      "vinification": "",
+      "aging": "12 months in French oak barrels",
+      "pairing": "Rich grilled meats & vegetables, braised beef, aged hard cheeses, barbecued glazed chicken, duck, tuna & game meats"
+    }
+  },
+  {
+    "id": 54,
+    "item": {
+      "productName": "Paradis Rose",
+      "productDescription": "Chianti Villa Montgeinri",
+      "productPrice": "$10",
+      "productImage": "img54.png",
+      "productDetails": "9-lebanon-min.jpg",
+      "productDetailsMobile": "9-Paradis Rose-min.jpg",
+      "productCountry": "Lebanon",
+      "productRegion": "West Bekaa",
+      "productType": "Rose",
+      "productBrand": "Château Qanafar",
+      "grapeVariety": "Tempranillo, Syrah, Zinfandel",
+      "abv": "12.0%",
+      "acidity": "6g/l",
+      "sugar": "0g/l",
+      "servingTemp": "8-10°C",
+      "vintage": "2019",
+      "senses": {
+        "eye": "Light salmon pink",
+        "nose": "White flowers, candied cherries, allspice berries & some cinnamon",
+        "mouth": "Fully dry wine exhibiting juicy berry flavors, rounded acidity that lingers slightly, remarkable balance on the palate from attack to tail"
+      },
+      "vinification": "",
+      "aging": "9 months in stainless steel tank, cold stabilization",
+      "pairing": "Light salads, light pasta dishes & seafood"
+    }
+  },
+  {
+    "id": 55,
+    "item": {
+      "productName": "Vin de Marje - Blanc",
+      "productDescription": "Chianti Villa Montgeinri",
+      "productPrice": "$8",
+      "productImage": "img55.png",
+      "productDetails": "10-lebanon-min.jpg",
+      "productDetailsMobile": "10-Vin de Marje - Blanc-min.jpg",
+      "productCountry": "Lebanon",
+      "productRegion": "Marjeyoun",
+      "productType": "White",
+      "productBrand": "Les Vignes de Marje",
+      "grapeVariety": "Sauvignon Blanc, Viognier, Muscat Blancà Petits Grains",
+      "abv": "13.0%",
+      "acidity": "3.1g/l",
+      "sugar": "0.8g/l",
+      "servingTemp": "8-10°C",
+      "vintage": "2021",
+      "senses": {
+        "eye": "Light yellow",
+        "nose": "Expressive nose & floral aromas with expression of sweetness",
+        "mouth": "Balanced harmony of acidity & a strong, intense yet delicate flavor"
+      },
+      "vinification": "",
+      "aging": "",
+      "pairing": "Salads, wide varieties of sea food and shellfish (fruit de mer), roasted grilled chicken, veal, pork, spicy flavors, asian cuisine & even salty blue cheese"
+    }
+  },
+  {
+    "id": 56,
+    "item": {
+      "productName": "Vin de Marje - Rouge",
+      "productDescription": "Chianti Villa Montgeinri",
+      "productPrice": "$8",
+      "productImage": "img56.png",
+      "productDetails": "11-lebanon-min.jpg",
+      "productDetailsMobile": "11-Vin de Marje - Rouge-min.jpg",
+      "productCountry": "Lebanon",
+      "productRegion": "Marjeyoun",
+      "productType": "Red",
+      "productBrand": "Les Vignes de Marje.jpg",
+      "grapeVariety": "Syrah, Cabernet Sauvignon",
+      "abv": "14.0%",
+      "acidity": "3.5g/l",
+      "sugar": "3.2g/l",
+      "servingTemp": "10-12°C",
+      "vintage": "2016",
+      "senses": {
+        "eye": "Light purple ",
+        "nose": "Smells of red fruits & raspberries",
+        "mouth": "Full bodied with a smooth & rich aftertaste, no acidity, quite simple & agreeable"
+      },
+      "vinification": "",
+      "aging": "",
+      "pairing": "Meat & aged cheese"
+    }
+  },
+  {
+    "id": 57,
+    "item": {
+      "productName": "Vin de Marje - Rose",
+      "productDescription": "Chianti Villa Montgeinri",
+      "productPrice": "$8",
+      "productImage": "img57.png",
+      "productDetails": "12-lebanon-min.jpg",
+      "productDetailsMobile": "12-Vin de Marje - Rose-min.jpg",
+      "productCountry": "Lebanon",
+      "productRegion": "Marjeyoun",
+      "productType": "Rose",
+      "productBrand": "Les Vignes de Marje.jpg",
+      "grapeVariety": "Syrah, Tempranillo",
+      "abv": "13.0%",
+      "acidity": "3.9g/l",
+      "sugar": "4.2g/l",
+      "servingTemp": "16-18°C",
+      "vintage": "2020",
+      "senses": {
+        "eye": "Dark rosé pink",
+        "nose": "Nuances of berries & a floral bouquet",
+        "mouth": "Fruity & fresh, strong in the mouth with good vivacity"
+      },
+      "vinification": "",
+      "aging": "",
+      "pairing": "Lasagna, pizza, dishes with Italian tomato-based sauces, grilled meat & smoky dishes"
+    }
+  },
+  {
+    "id": 58,
+    "item": {
+      "productName": "Le Rouge de Marje - Limited Release",
+      "productDescription": "Chianti Villa Montgeinri",
+      "productPrice": "$15",
+      "productImage": "img58.png",
+      "productDetails": "13-lebanon-min.jpg",
+      "productDetailsMobile": "13-Le Rouge de Marje - Limited Release-min.jpg",
+      "productCountry": "Lebanon",
+      "productRegion": "Marjeyoun",
+      "productType": "Red",
+      "productBrand": "Les Vignes de Marje",
+      "grapeVariety": "Syrah, Cabernet Sauvignon, Merlot",
+      "abv": "14.0%",
+      "acidity": "3.8g/l",
+      "sugar": "3.4g/l",
+      "servingTemp": "16-18°C",
+      "vintage": "2013",
+      "senses": {
+        "eye": "Distinctive red color with intense & fresh reflections",
+        "nose": "The particular blend of Syrah, Cabernet Sauvignon & Merlot fuses harmoniusly the fruity & elegant aromas",
+        "mouth": "Fresh flavours & a rounded, smooth tannin structure "
+      },
+      "vinification": "",
+      "aging": "",
+      "pairing": "Beef, duck breast & special cheeses of character"
+    }
+  },
+  {
+    "id": 59,
+    "item": {
+      "productName": "Couvent de M",
+      "productDescription": "Chianti Villa Montgeinri",
+      "productPrice": "$25",
+      "productImage": "img59.png",
+      "productDetails": "14-lebanon-min.jpg",
+      "productDetailsMobile": "14-Couvent de M-min.jpg",
+      "productCountry": "Lebanon",
+      "productRegion": "Marjeyoun",
+      "productType": "Red",
+      "productBrand": "Les Vignes de Marje",
+      "grapeVariety": "Syrah, Cabernet Sauvignon, Merlot",
+      "abv": "14.0%",
+      "acidity": "3.4g/l",
+      "sugar": "1.9g/l",
+      "servingTemp": "16-18°C",
+      "vintage": "2016",
+      "senses": {
+        "eye": "Deep ruby red",
+        "nose": "Aromas of black fruits & tobacco ",
+        "mouth": "Depth of flavor from the oak rounded by freshness of black fruits, slight bitter, dry aftertaste"
+      },
+      "vinification": "",
+      "aging": "",
+      "pairing": "Red meat, game, ripened cheese (fromage affiné) & cold cuts (charcuterie)"
+    }
+  }
+]

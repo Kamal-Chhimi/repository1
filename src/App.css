@@ -1,0 +1,70 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow-y: scroll;
+  }
+  
+  .App {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .Page1, .Page2, .Page3 ,.Page4,.Page5,.Page6 {
+    height: 100vh;
+    width: 100%;
+    position: relative;
+  }
+  .svg-container {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 20px;
+  }
+  
+  .svg-container svg {
+    margin: 8px;
+    width: 50px;
+    height: 50px;
+    fill: black;
+    color: white;
+    background-color: grey;
+    border-radius: 10px;
+  }
+  .svg-container svg:hover{
+    background-color: #c08d54;
+  }
+  @media (max-width: 767px) {
+    .svg-container {
+      position: fixed;
+      bottom: 0%;
+      right: 0%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: flex-end;
+      padding: 0;
+  
+    }
+    
+    .svg-container svg {
+      margin: 5px;
+      width: 40px;
+      height: 40px;
+      fill: black;
+      color: white;
+      background-color: grey;
+      border-radius: 5px;
+    }
+    
+    .svg-container svg:hover {
+      background-color:white;
+    }
+.App{
+  width: 100%;
+}
+  }  
+  
